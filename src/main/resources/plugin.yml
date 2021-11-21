@@ -1,0 +1,8 @@
+name: CreativeProtection
+version: ${project.version}
+main: valiblackdragon.creativeprotection.Main
+commands:
+  suicide:
+    description: a
+  update:
+    description: a

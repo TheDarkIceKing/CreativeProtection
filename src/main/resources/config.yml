@@ -1,0 +1,7 @@
+autoupdater: false
+no-update-permission: "&4Je hebt hier geen permissie voor"
+
+drop-denied: "&4 Je mag dit item niet droppen in creative"
+pickup-denied: "&4 Je mag dit item niet oprapen in creative"
+interact-denied: "&4 Je kunt hier niet mee interacten in creative"
+armorstand-denied: "&4 Je kunt hier niet mee interacten in creative"
